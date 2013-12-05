@@ -1,0 +1,28 @@
+var classfx_shape_replicator =
+[
+    [ "AlignToTerrain", "classfx_shape_replicator.html#a5e2321f4c21b39fa36b3979ee6e27589", null ],
+    [ "AllowedTerrainSlope", "classfx_shape_replicator.html#a5779ba2a14e3842055d9ef4359b3676e", null ],
+    [ "AllowOnStatics", "classfx_shape_replicator.html#ad2f8109043fd44f195a952517a4a7871", null ],
+    [ "AllowOnTerrain", "classfx_shape_replicator.html#a5e3333a97585ec1e4f44c6ddbec9e282", null ],
+    [ "AllowOnWater", "classfx_shape_replicator.html#ae94d17ccc7b9362e0eb03a8c047e7ac1", null ],
+    [ "AllowWaterSurface", "classfx_shape_replicator.html#a7655ee0bc229384bf132b31fa16ff0f8", null ],
+    [ "HideReplications", "classfx_shape_replicator.html#abe4a03c7171d7ccf341f1267eddc1d15", null ],
+    [ "InnerRadiusX", "classfx_shape_replicator.html#ae94f18c21440df8ba347c0febd89764a", null ],
+    [ "InnerRadiusY", "classfx_shape_replicator.html#aa3884877ce926bb8ca06e22b8d68909c", null ],
+    [ "Interactions", "classfx_shape_replicator.html#a3ff2af295f47d5b4577a7ffbb6e8afa5", null ],
+    [ "OffsetZ", "classfx_shape_replicator.html#a599e9ba7c5f9b7cc9e758cb51c1115e3", null ],
+    [ "OuterRadiusX", "classfx_shape_replicator.html#aa865f885e00a41dac6c12b104a3a17a9", null ],
+    [ "OuterRadiusY", "classfx_shape_replicator.html#a576c137c5ee227d322fef533e322be68", null ],
+    [ "PlacementAreaHeight", "classfx_shape_replicator.html#ae6dbd500769f4b4c8b88f9025d5e120e", null ],
+    [ "PlacementColour", "classfx_shape_replicator.html#abd17f560cc69b08a5dc5674030706115", null ],
+    [ "seed", "classfx_shape_replicator.html#ae8cbe757a59b515e3a7349fb1773b11f", null ],
+    [ "ShapeCount", "classfx_shape_replicator.html#a8b43ecffd2836bfce4f6b0c619860b29", null ],
+    [ "shapeFile", "classfx_shape_replicator.html#a39df02d9f69dea627e73ab1bef705e8f", null ],
+    [ "ShapeRetries", "classfx_shape_replicator.html#a6e346871463ef78444844fab572a95b0", null ],
+    [ "ShapeRotateMax", "classfx_shape_replicator.html#aa4ffb80bd4282c2073bc72c65e435a76", null ],
+    [ "ShapeRotateMin", "classfx_shape_replicator.html#a1d2925213c869ae220b71fa01597f941", null ],
+    [ "ShapeScaleMax", "classfx_shape_replicator.html#a3a81fc17ba9c08687f6552245c718482", null ],
+    [ "ShapeScaleMin", "classfx_shape_replicator.html#a066d91938241515f72dedbb9b7cb41c9", null ],
+    [ "ShowPlacementArea", "classfx_shape_replicator.html#a488b49fc81c11ae603292a789693ddac", null ],
+    [ "TerrainAlignment", "classfx_shape_replicator.html#a85fb1639aa9451d01be58d920cd1a4fd", null ]
+];

@@ -1,0 +1,25 @@
+var class_splash_data =
+[
+    [ "acceleration", "class_splash_data.html#ae607a8702cead2800f8eefafb2852d3e", null ],
+    [ "colors", "class_splash_data.html#ab709c77d0e341c7ffe42dcdddfacc1db", null ],
+    [ "delayMS", "class_splash_data.html#ab5e269094884d0d27ca9d6de0c9aab2d", null ],
+    [ "delayVariance", "class_splash_data.html#a4f3d70e84a9deb3b76c60ec5fb4acdcf", null ],
+    [ "ejectionAngle", "class_splash_data.html#a24019cc549b53b4e3c8236563ad114be", null ],
+    [ "ejectionFreq", "class_splash_data.html#ade29aec5744ee083a6db16a0ebf908c0", null ],
+    [ "emitter", "class_splash_data.html#a061da6e0a87494c5d778e8e276c5e755", null ],
+    [ "Explosion", "class_splash_data.html#a030bb4833d0b831b82cb12c84e9feba0", null ],
+    [ "height", "class_splash_data.html#a018195a490570f05e242a3a5c1f820f7", null ],
+    [ "lifetimeMS", "class_splash_data.html#ac35f588d11e8c3f47d45fb680671663d", null ],
+    [ "lifetimeVariance", "class_splash_data.html#a90c5919aced761153621359f4150c203", null ],
+    [ "numSegments", "class_splash_data.html#a97e299e92c4a1b15cb7553657947a5ab", null ],
+    [ "ringLifetime", "class_splash_data.html#afc4ac6c2b71f21a12a89e4f6df85d692", null ],
+    [ "scale", "class_splash_data.html#a0bf2b70ac2995da8ac5bd00fc5ee5867", null ],
+    [ "soundProfile", "class_splash_data.html#aba0004a4c338c23594d58bcbc90abbd0", null ],
+    [ "startRadius", "class_splash_data.html#a3f29d56da0b411c42cb292045b15b5cf", null ],
+    [ "texFactor", "class_splash_data.html#a63e53ab525e21cd2a1fa862d2482e91b", null ],
+    [ "texture", "class_splash_data.html#a00719132a51ea24c37eba7573c36b204", null ],
+    [ "texWrap", "class_splash_data.html#a28c1289238f98e1dd4ff1c706975b37a", null ],
+    [ "times", "class_splash_data.html#a7a2d5cb2fa530a6a27e586765b102459", null ],
+    [ "velocity", "class_splash_data.html#a017cccd6aa880e2c8e46f19706307604", null ],
+    [ "width", "class_splash_data.html#a7b9ea419e57959d2393a3236688ae70f", null ]
+];

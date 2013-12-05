@@ -1,0 +1,25 @@
+var class_editor_plugin =
+[
+    [ "clearDirty", "class_editor_plugin.html#a8c8c82803710f4c2cf7f7fbfccd7ccc7", null ],
+    [ "handleCopy", "class_editor_plugin.html#a89965d6b194341dd9ac98154e952cbbb", null ],
+    [ "handleCut", "class_editor_plugin.html#a52edbffca28bf3cfb1783285088c371b", null ],
+    [ "handleDelete", "class_editor_plugin.html#abdefcc1692c9c9d7fe0d905cdc46cc53", null ],
+    [ "handleDeselect", "class_editor_plugin.html#a8bf8b6e8eee68c8985c2bfff7a273535", null ],
+    [ "handleEscape", "class_editor_plugin.html#acc903ff8f88a7a72d6353ce772aaa51a", null ],
+    [ "handlePaste", "class_editor_plugin.html#a0ac572716707757cd7ac09e010fcae26", null ],
+    [ "isDirty", "class_editor_plugin.html#a49f2816010471b1204ef6a4e8bc9cfa1", null ],
+    [ "onActivated", "class_editor_plugin.html#af62f9bccb7d5988f5dec2b0166f20816", null ],
+    [ "onAdd", "class_editor_plugin.html#a7c76e66c2bdc9e2fe33f2ff475d8fc21", null ],
+    [ "onDeactivated", "class_editor_plugin.html#a24310dd9ad062607d84639aa29ec8d83", null ],
+    [ "onEditMenuSelect", "class_editor_plugin.html#ae1702519558348c638a3fc01bf7dc23b", null ],
+    [ "onEditorSleep", "class_editor_plugin.html#a672d61d6947db544f278294c3dc602b6", null ],
+    [ "onEditorWake", "class_editor_plugin.html#a75b05af3b5ec2f7512f1da954b3103e5", null ],
+    [ "onExitMission", "class_editor_plugin.html#a0c3907375e40fc366e26753d1dc9c128", null ],
+    [ "onObjectDeselected", "class_editor_plugin.html#a150a3c3a5a03ca12b7f086e078dc726a", null ],
+    [ "onObjectSelected", "class_editor_plugin.html#a74618c48d79727d8ba4586355ffa2b2e", null ],
+    [ "onSaveMission", "class_editor_plugin.html#adbdcf1988ae05a7dd517f1b57afb1181", null ],
+    [ "onSelectionCleared", "class_editor_plugin.html#ab33274643f613d09d8804544c3727f02", null ],
+    [ "onToggleToolWindows", "class_editor_plugin.html#a76b4a4e7578172a1879f668aefc71d47", null ],
+    [ "onWorldEditorShutdown", "class_editor_plugin.html#acc89911e7c7c81e65cc02b51f977150c", null ],
+    [ "onWorldEditorStartup", "class_editor_plugin.html#adf928a8ba9d0419573517dad4c51bfc3", null ]
+];

@@ -1,0 +1,27 @@
+var class_gui_pop_up_menu_ctrl =
+[
+    [ "add", "class_gui_pop_up_menu_ctrl.html#aea94758777e3beac8c7a7f0ea0295220", null ],
+    [ "addScheme", "class_gui_pop_up_menu_ctrl.html#a19852b6ca373e02f46a04e6e7276ceb3", null ],
+    [ "changeTextById", "class_gui_pop_up_menu_ctrl.html#a07ed463929740f3529717dacf5baf5aa", null ],
+    [ "clear", "class_gui_pop_up_menu_ctrl.html#a29c892150aafce1b5bb21f01e75d3104", null ],
+    [ "clearEntry", "class_gui_pop_up_menu_ctrl.html#a2eebdae1b7eaec29b52a3e2df6d8a002", null ],
+    [ "findText", "class_gui_pop_up_menu_ctrl.html#a5c42b4cd178e6e66ef47406a56a5414e", null ],
+    [ "forceClose", "class_gui_pop_up_menu_ctrl.html#a0bead148902b9884e85250204b034ae2", null ],
+    [ "forceOnAction", "class_gui_pop_up_menu_ctrl.html#ac4fd80f31bc6680300790e81250a939a", null ],
+    [ "getSelected", "class_gui_pop_up_menu_ctrl.html#a9884ea961a456a7c5a29ca75020a774d", null ],
+    [ "getText", "class_gui_pop_up_menu_ctrl.html#a7f8a5f7a92dbc150b735ee967177fcd1", null ],
+    [ "getTextById", "class_gui_pop_up_menu_ctrl.html#ae292e955ef7e1ce924e4dc407e4185f5", null ],
+    [ "replaceText", "class_gui_pop_up_menu_ctrl.html#a663f30d7640b5bc1dbf41f0c287012e8", null ],
+    [ "setEnumContent", "class_gui_pop_up_menu_ctrl.html#aba9c8c2e4342eb55a7c9ee232e7b12ce", null ],
+    [ "setFirstSelected", "class_gui_pop_up_menu_ctrl.html#aeea7acbbc7c486d29d001b8e764ca92c", null ],
+    [ "setNoneSelected", "class_gui_pop_up_menu_ctrl.html#ae7a7012c5d1afdfe0514bbdd6567b1e4", null ],
+    [ "setSelected", "class_gui_pop_up_menu_ctrl.html#a85f7a6fb83c6ebdc6b4218eaf1821778", null ],
+    [ "size", "class_gui_pop_up_menu_ctrl.html#ac61ed4f77b252cfe9d3db9a6a6889528", null ],
+    [ "sort", "class_gui_pop_up_menu_ctrl.html#a10ff31cd7452dced4a1c1e8c84242140", null ],
+    [ "sortID", "class_gui_pop_up_menu_ctrl.html#ab9e112e3936ecb20e6ea62bd2aeda0a4", null ],
+    [ "bitmap", "class_gui_pop_up_menu_ctrl.html#ab6cda65852efd2edacbcc6240dcfbd39", null ],
+    [ "bitmapBounds", "class_gui_pop_up_menu_ctrl.html#a5c2eebf34772aec6e514d96c6c9db5b3", null ],
+    [ "maxPopupHeight", "class_gui_pop_up_menu_ctrl.html#afe0b7ab1093575ac6d13e815ec08c0c9", null ],
+    [ "reverseTextList", "class_gui_pop_up_menu_ctrl.html#ad032ca23513eff1b1fdc39db390534af", null ],
+    [ "sbUsesNAColor", "class_gui_pop_up_menu_ctrl.html#a689f8e651bdeac5be817ab23c4824b16", null ]
+];

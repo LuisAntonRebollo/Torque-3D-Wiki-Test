@@ -1,0 +1,27 @@
+var class_gui_frame_set_ctrl =
+[
+    [ "addColumn", "class_gui_frame_set_ctrl.html#a88956fde9dd8ecaf93496fe3e88c96bf", null ],
+    [ "addRow", "class_gui_frame_set_ctrl.html#a5cd8a425fb23d566aba78140b94ce3c3", null ],
+    [ "frameBorder", "class_gui_frame_set_ctrl.html#aba778ca5a0a1e4fa0c5fb45d2f25e3b8", null ],
+    [ "frameMinExtent", "class_gui_frame_set_ctrl.html#a386fce83875087fce66201b066517536", null ],
+    [ "frameMovable", "class_gui_frame_set_ctrl.html#a26090758a08f789a39bb3051d75bcd51", null ],
+    [ "framePadding", "class_gui_frame_set_ctrl.html#a5a5b95cacd3bb0df232bfeb2b6a82d25", null ],
+    [ "getColumnCount", "class_gui_frame_set_ctrl.html#acbc8de95b941315ec963ddbed980da36", null ],
+    [ "getColumnOffset", "class_gui_frame_set_ctrl.html#a39477ad5f3375feebc3acac67f191401", null ],
+    [ "getFramePadding", "class_gui_frame_set_ctrl.html#a0ae3648d9a1979cd7d116d46e5bb3fe3", null ],
+    [ "getRowCount", "class_gui_frame_set_ctrl.html#a0f4782acad2cd863c3adc922c490d5c1", null ],
+    [ "getRowOffset", "class_gui_frame_set_ctrl.html#ad64bcf82dbdfecc43c5ccecaa9a03af1", null ],
+    [ "removeColumn", "class_gui_frame_set_ctrl.html#a30d31d459989685fbbf469b505f46bd3", null ],
+    [ "removeRow", "class_gui_frame_set_ctrl.html#a317afb15f79eeeeb4bc33e5c39141b85", null ],
+    [ "setColumnOffset", "class_gui_frame_set_ctrl.html#ab73cf3846bf8dbfa62e091ab32cb6bd1", null ],
+    [ "setRowOffset", "class_gui_frame_set_ctrl.html#a9dc7738b0404d14e5fdb2ac543a2395e", null ],
+    [ "updateSizes", "class_gui_frame_set_ctrl.html#a177192bd9da53584e976d41c431aacec", null ],
+    [ "autoBalance", "class_gui_frame_set_ctrl.html#aac07aabd88a596cb6ae625e57bdfe839", null ],
+    [ "borderColor", "class_gui_frame_set_ctrl.html#a54538d5470ff3a72b598f29511f7423f", null ],
+    [ "borderEnable", "class_gui_frame_set_ctrl.html#afbc921d74d6f612cba46b207df975354", null ],
+    [ "borderMovable", "class_gui_frame_set_ctrl.html#a11cf48188b33b6982c27553f8bcb1a61", null ],
+    [ "borderWidth", "class_gui_frame_set_ctrl.html#a17d17ecc51b384b0946e26580755a639", null ],
+    [ "columns", "class_gui_frame_set_ctrl.html#aa1404996b79f3ad842dc19181569b603", null ],
+    [ "fudgeFactor", "class_gui_frame_set_ctrl.html#a0e94972be1a945e2d17313f834fcd47a", null ],
+    [ "rows", "class_gui_frame_set_ctrl.html#a2710863371ded0261c43a16a54d76504", null ]
+];

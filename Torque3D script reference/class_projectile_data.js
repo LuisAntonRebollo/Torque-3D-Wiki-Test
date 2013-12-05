@@ -1,0 +1,25 @@
+var class_projectile_data =
+[
+    [ "onCollision", "class_projectile_data.html#a2f581127db846b0a30ed74638e561893", null ],
+    [ "onExplode", "class_projectile_data.html#a4888af93a0dff4eb73ff0c7d7ccb4d75", null ],
+    [ "armingDelay", "class_projectile_data.html#a5d302fe12c62c57c2a822cc281dc0280", null ],
+    [ "bounceElasticity", "class_projectile_data.html#a5e43b56295db95b3b5d2ff20fbe287bb", null ],
+    [ "bounceFriction", "class_projectile_data.html#a7ef47dc83cc14fc4526034eb40106a1a", null ],
+    [ "decal", "class_projectile_data.html#add9a0beaa4178d3a42e5ba6327e82dd7", null ],
+    [ "Explosion", "class_projectile_data.html#a3c8767f407490fcb6b49cbc3eac1bd9b", null ],
+    [ "fadeDelay", "class_projectile_data.html#a23e329ddc5e196377aef807e4de1e4fa", null ],
+    [ "gravityMod", "class_projectile_data.html#a8ecab3cb99c39510af6f6929d1aa4b39", null ],
+    [ "impactForce", "class_projectile_data.html#ae52b427c42da5b88966fbd42e3fa5e4d", null ],
+    [ "isBallistic", "class_projectile_data.html#aa04e6f6051a59e35e61d4acd9c8d4be4", null ],
+    [ "lifetime", "class_projectile_data.html#a729ebf767f9b683ed6383faa71d77357", null ],
+    [ "lightDesc", "class_projectile_data.html#af7194cb83f227bebdb2f133eaf6a2a96", null ],
+    [ "muzzleVelocity", "class_projectile_data.html#a7354698301f92523cd88cea639cc7613", null ],
+    [ "ParticleEmitter", "class_projectile_data.html#a456959be227b3f75a016d46f454578cb", null ],
+    [ "particleWaterEmitter", "class_projectile_data.html#a4a5accf881af863bd343554562864090", null ],
+    [ "projectileShapeName", "class_projectile_data.html#a7c5332617662096a9657c34abce72cab", null ],
+    [ "scale", "class_projectile_data.html#adbc9d4f2054aea1cd839ee8d2359df0e", null ],
+    [ "sound", "class_projectile_data.html#a18ede6125ef98094f348f4e165de9785", null ],
+    [ "Splash", "class_projectile_data.html#ab477a402f33e34d634a2e95b33388ec5", null ],
+    [ "velInheritFactor", "class_projectile_data.html#a73a25f53d6122cf13d210119e8afe5aa", null ],
+    [ "waterExplosion", "class_projectile_data.html#a8d7c973fe6c24282dbdb6dbf6e48ef59", null ]
+];

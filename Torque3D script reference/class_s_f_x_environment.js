@@ -1,0 +1,28 @@
+var class_s_f_x_environment =
+[
+    [ "airAbsorptionHF", "class_s_f_x_environment.html#a83a3c116d441f1cd358af69852022684", null ],
+    [ "decayHFRatio", "class_s_f_x_environment.html#ad8661abe1ad6a2268328fe9604dfd34e", null ],
+    [ "decayLFRatio", "class_s_f_x_environment.html#aea21e57d9b04b79a0e56a301c7162b75", null ],
+    [ "decayTime", "class_s_f_x_environment.html#a7f2d69ce4cd123bfa5249a1095c47c3f", null ],
+    [ "density", "class_s_f_x_environment.html#af383b0ddfb67e37ddc0f570ed2c68641", null ],
+    [ "diffusion", "class_s_f_x_environment.html#a15621f4dc42bca364b2ee31ecf6a1db0", null ],
+    [ "echoDepth", "class_s_f_x_environment.html#ae52104df3e6ea9e2b96c28898400d26e", null ],
+    [ "echoTime", "class_s_f_x_environment.html#a6859d0d8bd8a7bb6c5570667f6a8ac12", null ],
+    [ "envDiffusion", "class_s_f_x_environment.html#a1645894db407fb2bc77eaec3c0f71ac2", null ],
+    [ "envSize", "class_s_f_x_environment.html#ab2bf7fc3e12e0bfb10831ac16a1cc870", null ],
+    [ "flags", "class_s_f_x_environment.html#aa12340578f9a1386c271c1aaaef75de3", null ],
+    [ "HFReference", "class_s_f_x_environment.html#ad70fe85bc81c8350e9b471092a0a356e", null ],
+    [ "LFReference", "class_s_f_x_environment.html#ab410fe5a1dc653f05509519e222cfb94", null ],
+    [ "modulationDepth", "class_s_f_x_environment.html#a6957372f1a6e45739a07eccef755d6b5", null ],
+    [ "modulationTime", "class_s_f_x_environment.html#a2956cf80e4356d6d9b77f3f42cc01a49", null ],
+    [ "reflections", "class_s_f_x_environment.html#ac64f94c7f44b4d360f31caae8d192175", null ],
+    [ "reflectionsDelay", "class_s_f_x_environment.html#afa32636716ea20c5476ec383744f8daf", null ],
+    [ "reflectionsPan", "class_s_f_x_environment.html#ab462137b4af6165516516119286d2f41", null ],
+    [ "reverb", "class_s_f_x_environment.html#a8c0dea0e42496c24ff266b6e80203dd3", null ],
+    [ "reverbDelay", "class_s_f_x_environment.html#a9ea1d0133b11ebec7b1686770bda37ee", null ],
+    [ "reverbPan", "class_s_f_x_environment.html#a2fe53a12ff1774f312b9b12a68db42b7", null ],
+    [ "room", "class_s_f_x_environment.html#a3d3cf736c19e8094a7f2cddea30e8b29", null ],
+    [ "roomHF", "class_s_f_x_environment.html#a5cd84d758a8a105861013ad737070f73", null ],
+    [ "roomLF", "class_s_f_x_environment.html#a695690390aa44f5231f62d0f96fb9a15", null ],
+    [ "roomRolloffFactor", "class_s_f_x_environment.html#a43e12511573703f7d2a37f8fcc9e01a3", null ]
+];

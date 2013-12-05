@@ -1,0 +1,28 @@
+var class_gui_form_manager =
+[
+    [ "ActivateLayout", "class_gui_form_manager.html#ab22cfbd044279c45ad38a9896ef30bb4", null ],
+    [ "AddContentReference", "class_gui_form_manager.html#a5df42e64bba36cd1d6e6bdebfa1b4a3e", null ],
+    [ "AddFormContent", "class_gui_form_manager.html#a1b7fb01440afb27a4f34029d297202b4", null ],
+    [ "BroadcastContentMessage", "class_gui_form_manager.html#a0610dd082b3b6a3d2e0d7dbbc3a74c30", null ],
+    [ "ClearLayoutContent", "class_gui_form_manager.html#a24206e852631144ed0be5a5a1b744970", null ],
+    [ "DeactivateLayout", "class_gui_form_manager.html#a607ae3239a5112d8c6ff60219d9b0b3a", null ],
+    [ "destroy", "class_gui_form_manager.html#a4fe5da649cbd590c15e19ae4cec478c4", null ],
+    [ "FindFormContent", "class_gui_form_manager.html#a77742b7041b03908b667a3d3fb69fa52", null ],
+    [ "FindLayout", "class_gui_form_manager.html#afb797045c0d9a53fec6f0d61bf56c50b", null ],
+    [ "FindLibrary", "class_gui_form_manager.html#aa74044829410d86fff61a374a4387f63", null ],
+    [ "GetContentCount", "class_gui_form_manager.html#a0d80a821e8d075962401c1e798c58687", null ],
+    [ "GetFormContentByIndex", "class_gui_form_manager.html#a99ac92fc6dfb14b11cb32cdfbbe4c592", null ],
+    [ "GetFormContentCount", "class_gui_form_manager.html#ac4ff92fa4b4577f4616482a586e360eb", null ],
+    [ "init", "class_gui_form_manager.html#aa4a61a6fbaf7dacf9aaeea88b85bec46", null ],
+    [ "InitLayouts", "class_gui_form_manager.html#ad29b078b0da6c1e30029b3e4c8bcd0fb", null ],
+    [ "RegisterLayout", "class_gui_form_manager.html#a831340c24cb6fc484a549a55d30e802e", null ],
+    [ "RegisterLibrary", "class_gui_form_manager.html#aa8c93308852a9fe88a32dc48e9c8a1fe", null ],
+    [ "ReloadLayout", "class_gui_form_manager.html#aaebbcc46b63eaea7dff30a40845a6a16", null ],
+    [ "RemoveContentReference", "class_gui_form_manager.html#aad18b2589e98e05b0c463b62dc1c17a6", null ],
+    [ "RemoveFormContent", "class_gui_form_manager.html#a5af8215952176b29a2f00a3f55915296", null ],
+    [ "SaveLayout", "class_gui_form_manager.html#a316f42bd3bed63feb6d23d03110399e3", null ],
+    [ "SaveLayoutContent", "class_gui_form_manager.html#a1114cda7f2a5d1e2bfb69f71fd3faad4", null ],
+    [ "SendContentMessage", "class_gui_form_manager.html#aeb918d15571cf6a6379c1c49f44723e6", null ],
+    [ "UnregisterLayout", "class_gui_form_manager.html#a02733cef9792c8494dbce9bc81470da0", null ],
+    [ "UnregisterLibrary", "class_gui_form_manager.html#a2708b29aa9b40073c3b61c202b1d290c", null ]
+];
